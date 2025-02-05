@@ -1,0 +1,12 @@
+1 Javier 50
+2 Ana 45
+3 Paco 32
+4 Pedro 28
+5 Pepe 98
+6 Antonio 25
+7 Juan 3
+8 Carlos 46
+9 Maria 78
+10 Sara 90
+11 Laura 12
+12 Susana 23
