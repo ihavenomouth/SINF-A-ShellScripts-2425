@@ -1,3 +1,4 @@
+id nombre puntos
 1 Javier 50
 2 Ana 45
 3 Paco 32

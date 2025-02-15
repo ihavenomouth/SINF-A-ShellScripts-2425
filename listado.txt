@@ -1,0 +1,4 @@
+borrar.txt
+datos.txt
+logins.txt
+personal.txt
