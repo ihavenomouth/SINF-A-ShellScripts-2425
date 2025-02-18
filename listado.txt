@@ -1,4 +1,31 @@
-borrar.txt
-datos.txt
-logins.txt
-personal.txt
+-rw-rw-r-- 1 javier javier   34 feb  3 11:12 borrar.txt
+-rw-rw-r-- 1 javier javier  150 feb  7 18:34 datos.txt
+-rw-rw-r-- 1 javier javier   42 feb 18 18:58 dicc.txt
+-rwxrw-r-- 1 javier javier  562 feb 13 22:10 ej10.sh
+-rwxrw-r-- 1 javier javier 1803 feb 14 18:32 ej12.sh
+-rwxrw-r-- 1 javier javier  907 ene 30 21:20 ej3.sh
+-rwxrw-r-- 1 javier javier 3326 ene 30 22:07 ej4.sh
+-rwxrw-r-- 1 javier javier  891 ene 31 18:42 ej5.sh
+-rwxrw-r-- 1 javier javier  820 feb  4 18:27 ej6.sh
+-rwxrw-r-- 1 javier javier  494 feb 13 21:59 ej9.sh
+-rwxrw-r-- 1 javier javier  144 feb 13 21:51 ejemploCondicionales.sh
+-rw-rw-r-- 1 javier javier   53 feb 14 18:12 error.txt
+drwxrwxr-x 8 javier javier 4096 feb 15 22:18 .git
+-rw-rw-r-- 1 javier javier    0 feb 18 19:19 listado.txt
+-rw-rw-r-- 1 javier javier  259 feb  4 20:10 logins.txt
+-rw-rw-r-- 1 javier javier  409 feb  4 19:23 mensajecifrado
+drwxrwxr-x 2 javier javier 4096 feb  4 18:53 paco
+drwxrwxr-x 2 javier javier 4096 feb 13 21:33 pepe
+-rw-rw-r-- 1 javier javier  103 ene 31 18:43 personal.txt
+drwxrwxr-x 5 javier javier 4096 feb  4 18:45 pruebas
+-rw-rw-r-- 1 javier javier  409 feb  3 11:29 README.md
+-rwxrw-r-- 1 javier javier  694 ene 30 20:53 saludo.sh
+-rwxrw-r-- 1 javier javier  686 ene 30 21:15 teoria1-CrearScripts.sh
+-rwxrw-r-- 1 javier javier  657 ene 30 21:28 teoria2-Redirecciones.sh
+-rwxrw-r-- 1 javier javier 1333 ene 31 18:30 teoria3-vblesEntorno.sh
+-rwxrw-r-- 1 javier javier  475 ene 31 18:57 teoria4-paramEntradas.sh
+-rwxrw-r-- 1 javier javier 4781 feb  6 21:24 teoria5-tuberias.sh
+-rwxrw-r-- 1 javier javier 1054 feb 14 18:58 teoria6-variables.sh
+-rwxrw-r-- 1 javier javier 1407 feb 18 19:18 teoria7-bucles.sh
+-rw-rw-r-- 1 javier javier   56 feb 18 18:54 texto.txt
+drwxrwxr-x 2 javier javier 4096 feb 18 18:38 zip
